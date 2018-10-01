@@ -10,6 +10,7 @@ Bruno Barbosa - [Alta performance com Python - Paralelismo e Concorrência](alta
 
 Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](apr-PythonCerrado-rasa-ai.pdf)
 
+Andre Mesquita - [ O porque o Micropython e Jupyter notebook me conquistou](https://github.com/monitoracerrado/apresentacao_pycerrado2018) 
 
 ## Tutoriais
 
